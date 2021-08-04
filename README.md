@@ -1,5 +1,5 @@
 ### My Movie App
-##### Type a movie name you want to search for
+##### Type a movie name you want to search
 
 Live-link: https://find-film.netlify.app
 
